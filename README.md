@@ -25,7 +25,7 @@ Younger riders tend to rent for longer than older riders
 ![Screenshot (24)](https://user-images.githubusercontent.com/81697076/127787943-3deb8fd8-bf1c-4dcb-bbbd-a76de22f2ba9.png)
 
 ## Summary
-
+More population data visualization would be useful to determine the age groups of the population of Des Moines. This could be used to deterimne the average times and gain more insight on potential income. Public transport data may also be useful to determine the potential repeat customers that may choose to bike as an alternative top public transprt.
 
 
 ## Links
