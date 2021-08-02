@@ -18,9 +18,14 @@ The rental time appears to follow the same trend regardless of gender
 There is an even spread of customers renting bikes, but a large majority of male subscribers that are renting
 ![Screenshot (22)](https://user-images.githubusercontent.com/81697076/127787939-3323a4a5-1102-4c3b-9872-4c3ed2249573.png)
 
+The majority of riders are male
 ![Screenshot (23)](https://user-images.githubusercontent.com/81697076/127787940-97adecac-f210-4857-aa75-3624a47a79cd.png)
 
+Younger riders tend to rent for longer than older riders
 ![Screenshot (24)](https://user-images.githubusercontent.com/81697076/127787943-3deb8fd8-bf1c-4dcb-bbbd-a76de22f2ba9.png)
+
+## Summary
+
 
 
 ## Links
